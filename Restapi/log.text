@@ -1,0 +1,12 @@
+
+1708887139488:::1GET: /api/users
+
+1708887155057:::1GET: /api/users
+
+1708887202037:::1POST: /api/users
+
+1708887248082:::1GET: /api/users/65db8ca2b43a51da817804ba
+
+1708887258228:::1DELETE: /api/users/65db8ca2b43a51da817804ba
+
+1708887273303:::1PATCH: /api/users/65db8ca2b43a51da817804ba
